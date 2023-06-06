@@ -63,7 +63,7 @@ _Below is an example of how you can install and set up your project._
 I would to help following for helping me out in learning NextJS:-
 
 * [Next JS](https://nextjs.org/docs)
-* [NPM] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+* [NPM ](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 * [GitHub Pages](https://pages.github.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
