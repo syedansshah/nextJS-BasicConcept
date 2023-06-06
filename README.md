@@ -58,6 +58,16 @@ _Below is an example of how you can install and set up your project._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Acknowledgments
+
+I would to help following for helping me out in learning NextJS:-
+
+* [Next JS](https://nextjs.org/docs)
+* [NPM] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+* [GitHub Pages](https://pages.github.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/syed-ans-shah/
