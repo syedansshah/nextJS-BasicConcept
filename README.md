@@ -33,7 +33,32 @@
 - Project is made with NEXT.JS
 - Project is created by Syed Ans Shah ( `https://github.com/syedansshah` ) 
 
+### Installation
 
+_Below is an example of how you can install and set up your project._
+
+1. Install Node & NPM [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+2. Check Node and NPM versions
+   ```sh
+  node -v  
+   ```
+   ```sh
+  npm -v
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+<!-- 4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ``` -->
+4. Start the Portal
+  ```sh
+   npm start
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
