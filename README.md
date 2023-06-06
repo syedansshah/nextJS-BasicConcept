@@ -23,6 +23,7 @@
   </p>
 </div>
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](http://localhost:3000/)
