@@ -41,8 +41,6 @@ _Below is an example of how you can install and set up your project._
 2. Check Node and NPM versions
    ```sh
   node -v  
-   ```
-   ```sh
   npm -v
    ```
 3. Install NPM packages
