@@ -42,8 +42,8 @@ _Below is an example of how you can install and set up your project._
   ```sh
    node -v  npm -v
    ```
-
-3. Install NPM packages
+3. Minimum Node version should 10.13 or later 
+4. Install NPM packages
    ```sh
    npm install
    ```
