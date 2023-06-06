@@ -39,10 +39,8 @@ _Below is an example of how you can install and set up your project._
 
 1. Install Node & NPM [https://docs.npmjs.com/downloading-and-installing-node-js-and-npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 2. Check Node and NPM versions
-
-   ```sh
-  node -v  
-  npm -v
+  ```sh
+   node -v  npm -v
    ```
 
 3. Install NPM packages
